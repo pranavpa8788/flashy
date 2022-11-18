@@ -1,0 +1,5 @@
+* Add memprofiling and timeit to check if import redundancies exist
+
+[FEATURES]
+
+* Type checking
